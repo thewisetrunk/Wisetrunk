@@ -21,7 +21,7 @@ const HomePage = () => (
       />
 
       <meta name="keywords"
-        content="wise trunk, education foundation, social emotional learning, youth programs, NGO India"
+        content="wise trunk, Seos - social emotional learning in Mumbai,  Life skills for youth in Mumbai, SEL in Mumbai, Workshops for youth, SEL based NGOs in India"
       />
 
       <meta property="og:title" content="The Wise Trunk" />
