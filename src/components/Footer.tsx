@@ -8,7 +8,7 @@ const links = [
   { label: "Our Work", href: "/our-work" },
   { label: "Get Involved", href: "/get-involved" },
   { label: "Contact", href: "/contact" },
-  { label: "Donate", href: "https://forms.gle/xa8uLPXMUqarUxmD8", target: "_blank" },
+  { label: "Donate", href: "https://pages.razorpay.com/wisetrunkedufoundation", target: "_blank" },
 ];
 
 const Footer = () => {

@@ -82,7 +82,7 @@ const Header = () => {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="bg-accent text-accent-foreground px-5 py-2 rounded-full text-sm font-semibold shadow-md inline-block"
-            onClick={() => window.open("https://forms.gle/xa8uLPXMUqarUxmD8", "_blank")}
+            onClick={() => window.open("https://pages.razorpay.com/wisetrunkedufoundation", "_blank")}
           >
             Donate
           </motion.span>

@@ -129,7 +129,7 @@ const GetInvolved = () => {
                 whileTap={{ scale: 0.97 }}
                 className="w-full bg-primary text-primary-foreground py-3 rounded-xl font-semibold transition-colors"
                 type="button"
-                onClick={() => window.open("https://forms.gle/xa8uLPXMUqarUxmD8", "_blank")}
+                onClick={() => window.open("https://pages.razorpay.com/wisetrunkedufoundation", "_blank")}
               >
                 Donate Now
               </motion.button>
